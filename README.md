@@ -1,0 +1,3 @@
+# 🎧 TrackCheck – Audio Quality Check & Auto-Fix App
+
+TrackCheck is a professional QC tool for music WAV files...
