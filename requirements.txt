@@ -4,6 +4,8 @@ numpy
 soundfile
 scikit-learn
 matplotlib
+ffmpeg
+libavcodec-extra
 pandas
 pydub==0.25.1
 pyloudnorm
