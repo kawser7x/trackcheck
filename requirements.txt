@@ -7,3 +7,4 @@ matplotlib
 pandas
 pydub==0.25.1
 pyloudnorm
+pyloudnorm==0.1.1
