@@ -1,7 +1,9 @@
 streamlit
-soundfile
-pyloudnorm
+librosa
 numpy
+soundfile
+scikit-learn
 matplotlib
-pydub
-pyyaml
+pandas
+pydub==0.25.1
+pyloudnorm
