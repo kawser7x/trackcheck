@@ -1,1 +1,6 @@
-# Your thresholds config here
+clipping_threshold_db: -1.0         # If any sample exceeds this, it's considered clipping
+peak_level_dbfs_max: -0.1           # Peak level must be <= this value
+loudness_range_lufs: [-15, -11]     # Acceptable LUFS range
+noise_floor_dbfs: -60.0             # Anything above this is considered too noisy
+fade_out_duration_sec: 2.0          # Minimum fade out length in seconds
+fade_out_start_threshold_db: -35.0  # Fade must begin below this level
